@@ -1,0 +1,1 @@
+# plugins-favhero-favicon-generator
